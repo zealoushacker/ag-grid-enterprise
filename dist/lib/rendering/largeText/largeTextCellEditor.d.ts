@@ -1,4 +1,4 @@
-// ag-grid-enterprise v4.2.9
+// ag-grid-enterprise v4.2.10
 import { ICellEditor, ICellEditorParams, Component, ICellRenderer, ICellRendererFunc } from "ag-grid/main";
 export interface ILargeTextEditorParams extends ICellEditorParams {
     maxLength: number;
