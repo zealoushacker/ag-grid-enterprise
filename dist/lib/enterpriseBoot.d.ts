@@ -1,4 +1,4 @@
-// ag-grid-enterprise v4.2.10
+// ag-grid-enterprise v4.2.11
 export declare class EnterpriseBoot {
     private static RICH_SELECT;
     private static LARGE_TEXT;

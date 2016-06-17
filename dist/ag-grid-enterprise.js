@@ -1,4 +1,4 @@
-// ag-grid-enterprise v4.2.10
+// ag-grid-enterprise v4.2.11
 (function webpackUniversalModuleDefinition(root, factory) {
 	if(typeof exports === 'object' && typeof module === 'object')
 		module.exports = factory();
@@ -77,7 +77,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 1 */
 /***/ function(module, exports, __webpack_require__) {
 
-	// ag-grid-enterprise v4.2.10
+	// ag-grid-enterprise v4.2.11
 	var main_1 = __webpack_require__(2);
 	var enterpriseMenu_1 = __webpack_require__(92);
 	var columnSelectPanel_1 = __webpack_require__(93);
@@ -119,7 +119,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -325,7 +325,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -462,7 +462,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -815,7 +815,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -920,7 +920,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -982,7 +982,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -1258,7 +1258,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -1933,7 +1933,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -1982,7 +1982,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -2191,7 +2191,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -2258,7 +2258,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -2793,7 +2793,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -3006,7 +3006,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -4240,7 +4240,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -4423,7 +4423,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -4722,7 +4722,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -4879,7 +4879,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -4982,7 +4982,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -5066,7 +5066,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -5235,7 +5235,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -5284,7 +5284,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -5418,7 +5418,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -5505,7 +5505,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -6098,7 +6098,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -7060,7 +7060,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -7273,7 +7273,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -7405,7 +7405,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -7715,7 +7715,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -7755,6 +7755,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	        }
 	    };
 	    SelectionController.prototype.init = function () {
+	        this.groupSelectsChildren = this.gridOptionsWrapper.isGroupSelectsChildren();
 	        this.eventService.addEventListener(events_1.Events.EVENT_ROW_SELECTED, this.onRowSelected.bind(this));
 	    };
 	    SelectionController.prototype.setLastSelectedNode = function (rowNode) {
@@ -7808,14 +7809,25 @@ return /******/ (function(modules) { // webpackBootstrap
 	    };
 	    SelectionController.prototype.clearOtherNodes = function (rowNodeToKeepSelected) {
 	        var _this = this;
+	        var groupsToRefresh = {};
 	        utils_1.Utils.iterateObject(this.selectedNodes, function (key, otherRowNode) {
 	            if (otherRowNode && otherRowNode.id !== rowNodeToKeepSelected.id) {
 	                _this.selectedNodes[otherRowNode.id].setSelectedParams({ newValue: false, clearSelection: false, tailingNodeInSequence: true });
+	                if (_this.groupSelectsChildren && otherRowNode.parent) {
+	                    groupsToRefresh[otherRowNode.parent.id] = otherRowNode.parent;
+	                }
 	            }
+	        });
+	        utils_1.Utils.iterateObject(groupsToRefresh, function (key, group) {
+	            group.calculateSelectedFromChildren();
 	        });
 	    };
 	    SelectionController.prototype.onRowSelected = function (event) {
 	        var rowNode = event.node;
+	        // we do not store the group rows when the groups select children
+	        if (this.groupSelectsChildren && rowNode.group) {
+	            return;
+	        }
 	        if (rowNode.isSelected()) {
 	            this.selectedNodes[rowNode.id] = rowNode;
 	        }
@@ -7959,7 +7971,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -8172,7 +8184,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -8433,7 +8445,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -8558,7 +8570,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -8734,7 +8746,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -8766,7 +8778,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -8840,7 +8852,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -9022,7 +9034,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -9113,7 +9125,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -9768,7 +9780,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -10777,7 +10789,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -10911,7 +10923,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -11203,7 +11215,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -11545,7 +11557,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -11721,7 +11733,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -12171,7 +12183,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -12369,7 +12381,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -12576,7 +12588,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -12791,7 +12803,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -12885,7 +12897,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -12983,7 +12995,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -13063,7 +13075,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -13115,7 +13127,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -13178,7 +13190,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -13207,7 +13219,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -13236,7 +13248,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -13307,7 +13319,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -13391,7 +13403,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -13478,7 +13490,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -13578,7 +13590,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -13861,7 +13873,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -14188,7 +14200,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -14296,7 +14308,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -14358,7 +14370,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -14441,7 +14453,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -14664,7 +14676,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -14778,7 +14790,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -14821,7 +14833,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -14853,7 +14865,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -15027,7 +15039,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -15156,7 +15168,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -15327,7 +15339,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -15598,7 +15610,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -15704,7 +15716,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -15751,7 +15763,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -16073,7 +16085,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -16451,7 +16463,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -16554,7 +16566,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -16831,7 +16843,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -16958,7 +16970,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -17042,7 +17054,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -17142,7 +17154,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -17248,7 +17260,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -17361,7 +17373,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -17786,7 +17798,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -18240,7 +18252,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -18280,7 +18292,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -18393,7 +18405,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -18496,7 +18508,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -18540,7 +18552,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -18698,7 +18710,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	/**
 	 * ag-grid - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
-	 * @version v4.2.6
+	 * @version v4.2.7
 	 * @link http://www.ag-grid.com/
 	 * @license MIT
 	 */
@@ -18790,7 +18802,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 92 */
 /***/ function(module, exports, __webpack_require__) {
 
-	// ag-grid-enterprise v4.2.10
+	// ag-grid-enterprise v4.2.11
 	var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
 	    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
 	    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -19203,7 +19215,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 93 */
 /***/ function(module, exports, __webpack_require__) {
 
-	// ag-grid-enterprise v4.2.10
+	// ag-grid-enterprise v4.2.11
 	var __extends = (this && this.__extends) || function (d, b) {
 	    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
 	    function __() { this.constructor = d; }
@@ -19337,7 +19349,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 94 */
 /***/ function(module, exports, __webpack_require__) {
 
-	// ag-grid-enterprise v4.2.10
+	// ag-grid-enterprise v4.2.11
 	var __extends = (this && this.__extends) || function (d, b) {
 	    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
 	    function __() { this.constructor = d; }
@@ -19494,7 +19506,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 95 */
 /***/ function(module, exports, __webpack_require__) {
 
-	// ag-grid-enterprise v4.2.10
+	// ag-grid-enterprise v4.2.11
 	var __extends = (this && this.__extends) || function (d, b) {
 	    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
 	    function __() { this.constructor = d; }
@@ -19599,7 +19611,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 96 */
 /***/ function(module, exports, __webpack_require__) {
 
-	// ag-grid-enterprise v4.2.10
+	// ag-grid-enterprise v4.2.11
 	var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
 	    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
 	    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -19888,7 +19900,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 97 */
 /***/ function(module, exports, __webpack_require__) {
 
-	// ag-grid-enterprise v4.2.10
+	// ag-grid-enterprise v4.2.11
 	var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
 	    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
 	    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -20285,7 +20297,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 98 */
 /***/ function(module, exports, __webpack_require__) {
 
-	// ag-grid-enterprise v4.2.10
+	// ag-grid-enterprise v4.2.11
 	var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
 	    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
 	    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -20418,7 +20430,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 99 */
 /***/ function(module, exports, __webpack_require__) {
 
-	// ag-grid-enterprise v4.2.10
+	// ag-grid-enterprise v4.2.11
 	var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
 	    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
 	    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -20668,7 +20680,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 100 */
 /***/ function(module, exports, __webpack_require__) {
 
-	// ag-grid-enterprise v4.2.10
+	// ag-grid-enterprise v4.2.11
 	var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
 	    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
 	    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -20725,7 +20737,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 101 */
 /***/ function(module, exports, __webpack_require__) {
 
-	// ag-grid-enterprise v4.2.10
+	// ag-grid-enterprise v4.2.11
 	var __extends = (this && this.__extends) || function (d, b) {
 	    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
 	    function __() { this.constructor = d; }
@@ -21032,7 +21044,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 102 */
 /***/ function(module, exports, __webpack_require__) {
 
-	// ag-grid-enterprise v4.2.10
+	// ag-grid-enterprise v4.2.11
 	var main_1 = __webpack_require__(2);
 	var SetFilterModel = (function () {
 	    function SetFilterModel(colDef, rowModel, valueGetter, doesRowPassOtherFilters, suppressSorting) {
@@ -21256,7 +21268,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 103 */
 /***/ function(module, exports, __webpack_require__) {
 
-	// ag-grid-enterprise v4.2.10
+	// ag-grid-enterprise v4.2.11
 	var __extends = (this && this.__extends) || function (d, b) {
 	    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
 	    function __() { this.constructor = d; }
@@ -21336,7 +21348,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 104 */
 /***/ function(module, exports, __webpack_require__) {
 
-	// ag-grid-enterprise v4.2.10
+	// ag-grid-enterprise v4.2.11
 	var __extends = (this && this.__extends) || function (d, b) {
 	    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
 	    function __() { this.constructor = d; }
@@ -21495,7 +21507,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 105 */
 /***/ function(module, exports, __webpack_require__) {
 
-	// ag-grid-enterprise v4.2.10
+	// ag-grid-enterprise v4.2.11
 	var __extends = (this && this.__extends) || function (d, b) {
 	    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
 	    function __() { this.constructor = d; }
@@ -21655,7 +21667,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 106 */
 /***/ function(module, exports, __webpack_require__) {
 
-	// ag-grid-enterprise v4.2.10
+	// ag-grid-enterprise v4.2.11
 	var __extends = (this && this.__extends) || function (d, b) {
 	    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
 	    function __() { this.constructor = d; }
@@ -21697,7 +21709,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 107 */
 /***/ function(module, exports, __webpack_require__) {
 
-	// ag-grid-enterprise v4.2.10
+	// ag-grid-enterprise v4.2.11
 	var __extends = (this && this.__extends) || function (d, b) {
 	    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
 	    function __() { this.constructor = d; }
@@ -21752,7 +21764,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 108 */
 /***/ function(module, exports, __webpack_require__) {
 
-	// ag-grid-enterprise v4.2.10
+	// ag-grid-enterprise v4.2.11
 	var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
 	    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
 	    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -21886,7 +21898,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 109 */
 /***/ function(module, exports, __webpack_require__) {
 
-	// ag-grid-enterprise v4.2.10
+	// ag-grid-enterprise v4.2.11
 	var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
 	    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
 	    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -22076,7 +22088,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 110 */
 /***/ function(module, exports, __webpack_require__) {
 
-	// ag-grid-enterprise v4.2.10
+	// ag-grid-enterprise v4.2.11
 	var __extends = (this && this.__extends) || function (d, b) {
 	    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
 	    function __() { this.constructor = d; }
@@ -22257,7 +22269,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 111 */
 /***/ function(module, exports, __webpack_require__) {
 
-	// ag-grid-enterprise v4.2.10
+	// ag-grid-enterprise v4.2.11
 	var __extends = (this && this.__extends) || function (d, b) {
 	    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
 	    function __() { this.constructor = d; }
@@ -22304,7 +22316,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 112 */
 /***/ function(module, exports, __webpack_require__) {
 
-	// ag-grid-enterprise v4.2.10
+	// ag-grid-enterprise v4.2.11
 	var __extends = (this && this.__extends) || function (d, b) {
 	    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
 	    function __() { this.constructor = d; }
@@ -22461,7 +22473,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 113 */
 /***/ function(module, exports, __webpack_require__) {
 
-	// ag-grid-enterprise v4.2.10
+	// ag-grid-enterprise v4.2.11
 	var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
 	    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
 	    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -22670,7 +22682,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 114 */
 /***/ function(module, exports, __webpack_require__) {
 
-	// ag-grid-enterprise v4.2.10
+	// ag-grid-enterprise v4.2.11
 	var __extends = (this && this.__extends) || function (d, b) {
 	    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
 	    function __() { this.constructor = d; }
@@ -22770,7 +22782,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 115 */
 /***/ function(module, exports, __webpack_require__) {
 
-	// ag-grid-enterprise v4.2.10
+	// ag-grid-enterprise v4.2.11
 	var __extends = (this && this.__extends) || function (d, b) {
 	    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
 	    function __() { this.constructor = d; }
@@ -23003,7 +23015,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 116 */
 /***/ function(module, exports, __webpack_require__) {
 
-	// ag-grid-enterprise v4.2.10
+	// ag-grid-enterprise v4.2.11
 	var __extends = (this && this.__extends) || function (d, b) {
 	    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
 	    function __() { this.constructor = d; }
@@ -23068,7 +23080,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 117 */
 /***/ function(module, exports, __webpack_require__) {
 
-	// ag-grid-enterprise v4.2.10
+	// ag-grid-enterprise v4.2.11
 	var __extends = (this && this.__extends) || function (d, b) {
 	    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
 	    function __() { this.constructor = d; }
@@ -23176,7 +23188,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 118 */
 /***/ function(module, exports, __webpack_require__) {
 
-	// ag-grid-enterprise v4.2.10
+	// ag-grid-enterprise v4.2.11
 	var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
 	    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
 	    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -23213,7 +23225,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 119 */
 /***/ function(module, exports, __webpack_require__) {
 
-	// ag-grid-enterprise v4.2.10
+	// ag-grid-enterprise v4.2.11
 	var columnSelectPanel_1 = __webpack_require__(93);
 	var renderedColumn_1 = __webpack_require__(95);
 	var renderedGroup_1 = __webpack_require__(94);

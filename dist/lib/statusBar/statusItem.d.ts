@@ -1,4 +1,4 @@
-// ag-grid-enterprise v4.2.10
+// ag-grid-enterprise v4.2.11
 import { Component } from 'ag-grid/main';
 export declare class StatusItem extends Component {
     private static TEMPLATE;
