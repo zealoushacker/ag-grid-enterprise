@@ -30137,6 +30137,10 @@ return /******/ (function(modules) { // webpackBootstrap
 	        }
 	    };
 	    RangeController.prototype.onDragStart = function (mouseEvent) {
+	        if (mouseEvent.target.classList.contains('checkbox')) {
+	            event.stopPropagation();
+	            return;
+	        }
 	        if (!this.gridOptionsWrapper.isEnableRangeSelection()) {
 	            return;
 	        }
@@ -35346,8 +35350,8 @@ return /******/ (function(modules) { // webpackBootstrap
 	if(false) {
 		// When the styles change, update the <style> tags
 		if(!content.locals) {
-			module.hot.accept("!!../../../css-loader/index.js!./ag-grid.css", function() {
-				var newContent = require("!!../../../css-loader/index.js!./ag-grid.css");
+			module.hot.accept("!!../../../../../../../Users/alex/Documents/work/freelance/Clients/Anonos/ag-grid-enterprise/node_modules/css-loader/index.js!./ag-grid.css", function() {
+				var newContent = require("!!../../../../../../../Users/alex/Documents/work/freelance/Clients/Anonos/ag-grid-enterprise/node_modules/css-loader/index.js!./ag-grid.css");
 				if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
 				update(newContent);
 			});
@@ -35696,8 +35700,8 @@ return /******/ (function(modules) { // webpackBootstrap
 	if(false) {
 		// When the styles change, update the <style> tags
 		if(!content.locals) {
-			module.hot.accept("!!../../../css-loader/index.js!./theme-fresh.css", function() {
-				var newContent = require("!!../../../css-loader/index.js!./theme-fresh.css");
+			module.hot.accept("!!../../../../../../../Users/alex/Documents/work/freelance/Clients/Anonos/ag-grid-enterprise/node_modules/css-loader/index.js!./theme-fresh.css", function() {
+				var newContent = require("!!../../../../../../../Users/alex/Documents/work/freelance/Clients/Anonos/ag-grid-enterprise/node_modules/css-loader/index.js!./theme-fresh.css");
 				if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
 				update(newContent);
 			});
@@ -35736,8 +35740,8 @@ return /******/ (function(modules) { // webpackBootstrap
 	if(false) {
 		// When the styles change, update the <style> tags
 		if(!content.locals) {
-			module.hot.accept("!!../../../css-loader/index.js!./theme-dark.css", function() {
-				var newContent = require("!!../../../css-loader/index.js!./theme-dark.css");
+			module.hot.accept("!!../../../../../../../Users/alex/Documents/work/freelance/Clients/Anonos/ag-grid-enterprise/node_modules/css-loader/index.js!./theme-dark.css", function() {
+				var newContent = require("!!../../../../../../../Users/alex/Documents/work/freelance/Clients/Anonos/ag-grid-enterprise/node_modules/css-loader/index.js!./theme-dark.css");
 				if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
 				update(newContent);
 			});
@@ -35776,8 +35780,8 @@ return /******/ (function(modules) { // webpackBootstrap
 	if(false) {
 		// When the styles change, update the <style> tags
 		if(!content.locals) {
-			module.hot.accept("!!../../../css-loader/index.js!./theme-blue.css", function() {
-				var newContent = require("!!../../../css-loader/index.js!./theme-blue.css");
+			module.hot.accept("!!../../../../../../../Users/alex/Documents/work/freelance/Clients/Anonos/ag-grid-enterprise/node_modules/css-loader/index.js!./theme-blue.css", function() {
+				var newContent = require("!!../../../../../../../Users/alex/Documents/work/freelance/Clients/Anonos/ag-grid-enterprise/node_modules/css-loader/index.js!./theme-blue.css");
 				if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
 				update(newContent);
 			});
@@ -35816,8 +35820,8 @@ return /******/ (function(modules) { // webpackBootstrap
 	if(false) {
 		// When the styles change, update the <style> tags
 		if(!content.locals) {
-			module.hot.accept("!!../../../css-loader/index.js!./theme-material.css", function() {
-				var newContent = require("!!../../../css-loader/index.js!./theme-material.css");
+			module.hot.accept("!!../../../../../../../Users/alex/Documents/work/freelance/Clients/Anonos/ag-grid-enterprise/node_modules/css-loader/index.js!./theme-material.css", function() {
+				var newContent = require("!!../../../../../../../Users/alex/Documents/work/freelance/Clients/Anonos/ag-grid-enterprise/node_modules/css-loader/index.js!./theme-material.css");
 				if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
 				update(newContent);
 			});
@@ -35856,8 +35860,8 @@ return /******/ (function(modules) { // webpackBootstrap
 	if(false) {
 		// When the styles change, update the <style> tags
 		if(!content.locals) {
-			module.hot.accept("!!../../../css-loader/index.js!./theme-bootstrap.css", function() {
-				var newContent = require("!!../../../css-loader/index.js!./theme-bootstrap.css");
+			module.hot.accept("!!../../../../../../../Users/alex/Documents/work/freelance/Clients/Anonos/ag-grid-enterprise/node_modules/css-loader/index.js!./theme-bootstrap.css", function() {
+				var newContent = require("!!../../../../../../../Users/alex/Documents/work/freelance/Clients/Anonos/ag-grid-enterprise/node_modules/css-loader/index.js!./theme-bootstrap.css");
 				if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
 				update(newContent);
 			});

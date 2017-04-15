@@ -151,6 +151,10 @@ var RangeController = (function () {
         }
     };
     RangeController.prototype.onDragStart = function (mouseEvent) {
+        if (mouseEvent.target.classList.contains('checkbox')) {
+            event.stopPropagation();
+            return;
+        }
         if (!this.gridOptionsWrapper.isEnableRangeSelection()) {
             return;
         }
